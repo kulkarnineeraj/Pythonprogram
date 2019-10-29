@@ -1,5 +1,5 @@
 number1=45
-number2=82
+number2=87
 # Add 2 numbers
 sum= int(number1) + int(number2)
 # Display the sum
